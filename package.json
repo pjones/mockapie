@@ -1,0 +1,16 @@
+{
+  "name": "mockapie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/mockapie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter J. Jones",
+  "license": "BSD2",
+  "dependencies": {
+    "js-yaml": "^3.3.1",
+    "lockfile": "^1.0.1",
+    "node-static": "^0.7.6"
+  }
+}
