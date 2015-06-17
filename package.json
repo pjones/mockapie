@@ -1,13 +1,20 @@
 {
   "name": "mockapie",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very simple file/REST server using YAML files.",
+  "bin": {
+    "module-name": "./bin/mockapie"
+  },
   "main": "lib/mockapie.js",
+  "repository": {
+    "type" : "git",
+    "url" : "git://pmade.com/mockapie"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Peter J. Jones",
-  "license": "BSD2",
+  "license": "BSD-2-Clause",
   "dependencies": {
     "js-yaml": "^3.3.1",
     "lockfile": "^1.0.1",
