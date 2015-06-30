@@ -1,6 +1,6 @@
 {
   "name": "mockapie",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A very simple file/REST server using YAML files.",
   "bin": {
     "module-name": "./bin/mockapie"
