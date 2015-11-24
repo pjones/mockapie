@@ -29,6 +29,11 @@ Example URLs and how they map to YAML files:
 When a request does not start with `/api/*` then the static file
 server will be used to serve files out of `www`.
 
+## WebSockets
+
+The server uses [socket.io](http://socket.io/) to push log messages to
+all connected sockets.
+
 ## Default Configuration
 
 The following values are currently hard coded:
