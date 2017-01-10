@@ -8,7 +8,7 @@
   "main": "lib/mockapie.js",
   "repository": {
     "type": "git",
-    "url": "git://pmade.com/mockapie"
+    "url": "https://github.com/pjones/mockapie.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
