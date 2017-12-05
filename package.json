@@ -1,6 +1,6 @@
 {
   "name": "mockapie",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "description": "A very simple file/REST server using YAML files.",
   "bin": {
     "mockapie": "./bin/mockapie"
@@ -20,6 +20,6 @@
     "jshint": "^2.9.1",
     "lockfile": "^1.0.1",
     "node-static": "^0.7.6",
-    "socket.io": "^1.3.7"
+    "ws": "^3.3.2"
   }
 }
